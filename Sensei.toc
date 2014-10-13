@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: Fight Sensei
+## Notes: Learn the art of combat
+stats.lua
+rogue.lua
+warrior.lua
+shaman.lua
+monk.lua
+Sensei.lua
